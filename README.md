@@ -1,4 +1,4 @@
-﻿# Mission 9: Squad Up - Monad Discovery Platform
+# Mission 9: Squad Up - Monad Discovery Platform
 ## Complete Project Documentation Package
 
 **Project Status:** Active Development  
